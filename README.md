@@ -45,4 +45,4 @@ Welcome to Quick Shop – a simple, clean, and responsive e-commerce web applica
 <img width="1824" height="909" alt="Screenshot 2025-07-23 130833" src="https://github.com/user-attachments/assets/28818b1c-8f55-4ea8-a96f-02625fd19abc" />
 
 
-Click for project - https://fbad7db3b488.ngrok-free.app/
+Click for project - [(https://a14cb800457f.ngrok-free.app/Buynow/)](https://a14cb800457f.ngrok-free.app/Buynow/)
